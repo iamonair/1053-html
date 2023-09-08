@@ -9,6 +9,14 @@
 :root {
     scroll-behavior: smooth;
     font-family: 'Open Sans', sans-serif;
+    --accent-color: #ffffff;
+    --accent-background-color: #dee8ff;
+    --text-color: #5474ab;
+    --brand-color: #5995c5;
+    --brand-baskground-color: #5995c5;
+    --text-accent-color: #2f3547;
+    --text-shade-color: #b5b5b5;
+    --background-color: white;
 }
 
 img {

@@ -1,0 +1,7 @@
+.header {
+    background-color: var(--accent-color);
+}
+
+.header__logo-image {
+    width: 101px;
+}
